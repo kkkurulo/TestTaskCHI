@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TestTaskCHI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9299dd1953e08e6c1bf50a678eab70e02e3db7f4")]
 [assembly: System.Reflection.AssemblyProductAttribute("TestTaskCHI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TestTaskCHI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
