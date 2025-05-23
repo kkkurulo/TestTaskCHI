@@ -1,0 +1,14 @@
+C:\Users\kyryl\source\repos\TestTaskCHI\bin\Debug\net8.0\TestTaskCHI.exe
+C:\Users\kyryl\source\repos\TestTaskCHI\bin\Debug\net8.0\TestTaskCHI.deps.json
+C:\Users\kyryl\source\repos\TestTaskCHI\bin\Debug\net8.0\TestTaskCHI.runtimeconfig.json
+C:\Users\kyryl\source\repos\TestTaskCHI\bin\Debug\net8.0\TestTaskCHI.dll
+C:\Users\kyryl\source\repos\TestTaskCHI\bin\Debug\net8.0\TestTaskCHI.pdb
+C:\Users\kyryl\source\repos\TestTaskCHI\obj\Debug\net8.0\TestTaskCHI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kyryl\source\repos\TestTaskCHI\obj\Debug\net8.0\TestTaskCHI.AssemblyInfoInputs.cache
+C:\Users\kyryl\source\repos\TestTaskCHI\obj\Debug\net8.0\TestTaskCHI.AssemblyInfo.cs
+C:\Users\kyryl\source\repos\TestTaskCHI\obj\Debug\net8.0\TestTaskCHI.csproj.CoreCompileInputs.cache
+C:\Users\kyryl\source\repos\TestTaskCHI\obj\Debug\net8.0\TestTaskCHI.dll
+C:\Users\kyryl\source\repos\TestTaskCHI\obj\Debug\net8.0\refint\TestTaskCHI.dll
+C:\Users\kyryl\source\repos\TestTaskCHI\obj\Debug\net8.0\TestTaskCHI.pdb
+C:\Users\kyryl\source\repos\TestTaskCHI\obj\Debug\net8.0\TestTaskCHI.genruntimeconfig.cache
+C:\Users\kyryl\source\repos\TestTaskCHI\obj\Debug\net8.0\ref\TestTaskCHI.dll
